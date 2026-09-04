@@ -1,0 +1,30 @@
+Hackathon design-inspo reference websites
+Captured: 2026-09-04
+Source: local Brave bookmark folder `hackathon / design-inspo`
+
+The reference screenshot files are intentionally local-only and ignored by
+Git. This text inventory is the tracked source list for the visual research.
+
+Style            URL                                      Captured preview tabs
+---------------- ---------------------------------------- -----------------------------
+vertical         https://www.typeui.sh/design-skills/vertical  Marketing, Application, E-commerce, Components
+atlas            https://www.typeui.sh/design-skills/atlas     Marketing, Application, E-commerce, Components
+cream            https://www.typeui.sh/design-skills/cream     Marketing, Application, E-commerce, Components
+organic          https://www.typeui.sh/design-skills/organic   Marketing, Application, E-commerce, Components
+cypherpunk       https://www.typeui.sh/design-skills/cypherpunk Marketing, Application, E-commerce, Components
+charm            https://www.typeui.sh/design-skills/charm     Marketing, Application, E-commerce, Components
+levels           https://www.typeui.sh/design-skills/levels    Marketing, Application, E-commerce
+sketch           https://www.typeui.sh/design-skills/sketch    Marketing, Application, E-commerce
+brutalism        https://www.typeui.sh/design-skills/brutalism Marketing, Application, E-commerce
+vintage          https://www.typeui.sh/design-skills/vintage   Marketing, Application, E-commerce
+paper            https://www.typeui.sh/design-skills/paper     Marketing, Application, E-commerce
+kinetic          https://www.typeui.sh/design-skills/kinetic   Marketing, Application, E-commerce, Components
+minimal          https://www.typeui.sh/design-skills/minimal   Marketing, Application, E-commerce
+executive        https://www.typeui.sh/design-skills/executive Marketing, Application, E-commerce, Components
+typeui-catalog   https://www.typeui.sh/design-skills            Catalog landing page
+
+Notes:
+- The Brave folder contained duplicate Vertical and Atlas bookmarks; each URL
+  is listed once here.
+- Levels, Sketch, Brutalism, Vintage, Paper, and Minimal did not expose a
+  Components tab in the captured page state, so no route was guessed.

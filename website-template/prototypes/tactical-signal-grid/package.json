@@ -1,0 +1,22 @@
+{
+  "name": "lattice-signal-tactical-grid",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format:check": "prettier --check DESIGN.md UX-CONTRACT.md index.html package.json premium-ui.json src",
+    "format": "prettier --write DESIGN.md UX-CONTRACT.md index.html package.json premium-ui.json src"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "prettier": "latest"
+  }
+}
